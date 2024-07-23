@@ -153,20 +153,13 @@ python bedtools_conv.py input.csv output.csv
 
 ## 3. Usage
 
-1. Clone the repository:
-
-```sh
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
-```
-
-2. Install the dependencies:
+1. Install the dependencies:
 
 ```sh
 pip install pandas gffutils tqdm argparse pysradb
 ```
 
-3. Follow the Pipeline Workflow to process your data.
+2. Follow the Pipeline Workflow to process your data.
 
 ## 4. Pipeline Workflow
 
