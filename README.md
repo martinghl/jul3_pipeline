@@ -1,5 +1,4 @@
 # jul3_pipeline
-下面是README文件的内容，你可以将其复制到一个名为`README.txt`的文件中：
 
 ```
 # Gene Data Processing Pipeline
